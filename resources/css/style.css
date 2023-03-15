@@ -1,0 +1,7 @@
+body{
+    display: table-cell;
+}
+a{
+    text-decoration: none;
+    border: solid 1px;
+}
